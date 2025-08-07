@@ -18,7 +18,7 @@ Years Collected: 2022 and 2024
 │        └── image
 ├── 2024/
 │   └── image
-└── README``` </pre>
+└── README \``` </pre>
 
 image/: RGB orthophotos (TIF format)  
 label/: Ground truth annotations (binary masks)  
