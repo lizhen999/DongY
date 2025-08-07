@@ -9,16 +9,7 @@ Years Collected: 2022 and 2024
 
 
 ## Dataset Structure
-DongY/  
-├── 2022/  
-│   ├── labeled/  
-│      ├── image  
-│      └── label  
-│   └── unlabeled/  
-│      └── image  
-├── 2024/  
-│   └── image  
-└── README  
+<pre> \```text DongY/ ├── 2022/ │ ├── labeled/ │ │ ├── image │ │ └── label │ └── unlabeled/ │ └── image ├── 2024/ │ └── image └── README \``` </pre>
 
 image/: RGB orthophotos (TIF format)  
 label/: Ground truth annotations (binary masks)  
