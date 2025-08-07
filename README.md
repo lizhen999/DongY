@@ -12,10 +12,10 @@ Years Collected: 2022 and 2024
 DongY/  
 ├── 2022/  
 │   ├── labeled/  
-│        ├── image  
-│        └── label  
+│      ├── image  
+│      └── label  
 │   └── unlabeled/  
-│        └── image  
+│      └── image  
 ├── 2024/  
 │   └── image  
 └── README  
