@@ -18,4 +18,6 @@ The dataset includes:
   - `1` = soil saline patch
 
 
-  **Note:** This dataset is currently undergoing final organization and will be made publicly available soon.
+**Note:** This dataset is currently under review for publication. Citation format will be provided after acceptance.
+  
+
